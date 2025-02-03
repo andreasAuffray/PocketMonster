@@ -1,0 +1,191 @@
+Attack
+Name ThunderShock
+Type Electric
+Power 40
+NbUse 10
+Fail 0.07
+EndAttack
+
+Attack
+Name WaterGun
+Type Water
+Power 40
+NbUse 10
+Fail 0.05
+EndAttack
+
+Attack
+Name FlameThrower
+Type Fire
+Power 90
+NbUse 10
+Fail 0.1
+EndAttack
+
+Attack
+Name VineWhip
+Type Nature
+Power 45
+NbUse 15
+Fail 0.05
+EndAttack
+
+Attack
+Name RockThrow
+Type Earth
+Power 50
+NbUse 10
+Fail 0.15
+EndAttack
+
+Attack
+Name Tackle
+Type Normal
+Power 35
+NbUse 20
+Fail 0.03
+EndAttack
+
+Attack
+Name QuickAttack
+Type Normal
+Power 40
+NbUse 15
+Fail 0.05
+EndAttack
+
+Attack
+Name HydroPump
+Type Water
+Power 110
+NbUse 5
+Fail 0.25
+EndAttack
+
+Attack
+Name FireBlast
+Type Fire
+Power 120
+NbUse 5
+Fail 0.2
+EndAttack
+
+Attack
+Name ThunderBolt
+Type Electric
+Power 90
+NbUse 10
+Fail 0.1
+EndAttack
+
+Attack
+Name SolarBeam
+Type Nature
+Power 120
+NbUse 5
+Fail 0.2
+EndAttack
+
+Attack
+Name Earthquake
+Type Earth
+Power 100
+NbUse 10
+Fail 0.1
+EndAttack
+
+Attack
+Name Spark
+Type Electric
+Power 65
+NbUse 20
+Fail 0.1
+EndAttack
+
+Attack
+Name Surf
+Type Water
+Power 90
+NbUse 15
+Fail 0.1
+EndAttack
+
+Attack
+Name Ember
+Type Fire
+Power 40
+NbUse 25
+Fail 0.05
+EndAttack
+
+Attack
+Name LeafBlade
+Type Nature
+Power 90
+NbUse 15
+Fail 0.1
+EndAttack
+
+Attack
+Name MudSlap
+Type Earth
+Power 20
+NbUse 30
+Fail 0.02
+EndAttack
+
+Attack
+Name HyperBeam
+Type Normal
+Power 150
+NbUse 5
+Fail 0.3
+EndAttack
+
+Attack
+Name IceBeam
+Type Water
+Power 90
+NbUse 10
+Fail 0.1
+EndAttack
+
+Attack
+Name DragonRage
+Type Fire
+Power 80
+NbUse 10
+Fail 0.1
+EndAttack
+
+Attack
+Name RazorLeaf
+Type Nature
+Power 55
+NbUse 25
+Fail 0.05
+EndAttack
+
+Attack
+Name RockSlide
+Type Earth
+Power 75
+NbUse 10
+Fail 0.15
+EndAttack
+
+Attack
+Name QuickAttack
+Type Normal
+Power 40
+NbUse 30
+Fail 0.05
+EndAttack
+
+Attack
+Name BodySlam
+Type Normal
+Power 85
+NbUse 15
+Fail 0.1
+EndAttack

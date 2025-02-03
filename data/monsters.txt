@@ -1,0 +1,207 @@
+Monster
+Name Pikachu
+Type Electric
+HP 110
+Attack 75
+Defense 50
+Speed 141
+Paralysis 0.2
+EndMonster
+
+Monster
+Name Squirtle
+Type Water
+HP 150
+Attack 63
+Defense 85
+Speed 119
+EndMonster
+
+Monster
+Name Charizard
+Type Fire
+HP 200
+Attack 120
+Defense 80
+Speed 100
+EndMonster
+
+Monster
+Name Bulbasaur
+Type Nature
+HP 150
+Attack 60
+Defense 70
+Speed 80
+EndMonster
+
+Monster
+Name Onix
+Type Earth
+HP 300
+Attack 70
+Defense 160
+Speed 50
+EndMonster
+
+Monster
+Name Jolteon
+Type Electric
+HP 130
+Attack 90
+Defense 60
+Speed 140
+EndMonster
+
+Monster
+Name Gyarados
+Type Water
+HP 190
+Attack 125
+Defense 79
+Speed 81
+EndMonster
+
+Monster
+Name Arcanine
+Type Fire
+HP 180
+Attack 110
+Defense 80
+Speed 95
+EndMonster
+
+Monster
+Name Venusaur
+Type Nature
+HP 220
+Attack 100
+Defense 100
+Speed 80
+EndMonster
+
+Monster
+Name Machamp
+Type Earth
+HP 180
+Attack 130
+Defense 80
+Speed 55
+EndMonster
+
+Monster
+Name Electabuzz
+Type Electric
+HP 160
+Attack 83
+Defense 57
+Speed 105
+EndMonster
+
+Monster
+Name Blastoise
+Type Water
+HP 189
+Attack 98
+Defense 125
+Speed 78
+EndMonster
+
+Monster
+Name Magmar
+Type Fire
+HP 160
+Attack 95
+Defense 57
+Speed 93
+EndMonster
+
+Monster
+Name Exeggutor
+Type Nature
+HP 175
+Attack 95
+Defense 85
+Speed 55
+EndMonster
+
+Monster
+Name Rhydon
+Type Earth
+HP 210
+Attack 130
+Defense 120
+Speed 40
+EndMonster
+
+Monster
+Name Vaporeon
+Type Water
+HP 230
+Attack 85
+Defense 75
+Speed 65
+EndMonster
+
+Monster
+Name Flareon
+Type Fire
+HP 130
+Attack 130
+Defense 60
+Speed 65
+EndMonster
+
+Monster
+Name Zapdos
+Type Electric
+HP 180
+Attack 110
+Defense 85
+Speed 100
+EndMonster
+
+Monster
+Name Articuno
+Type Water
+HP 180
+Attack 85
+Defense 100
+Speed 85
+EndMonster
+
+Monster
+Name Moltres
+Type Fire
+HP 190
+Attack 100
+Defense 90
+Speed 90
+EndMonster
+
+Monster
+Name Leafeon
+Type Nature
+HP 160
+Attack 110
+Defense 130
+Speed 95
+EndMonster
+
+Monster
+Name Groudon
+Type Earth
+HP 250
+Attack 180
+Defense 160
+Speed 90
+EndMonster
+
+Monster
+Name Rayquaza
+Type Electric
+HP 210
+Attack 150
+Defense 100
+Speed 105
+EndMonster

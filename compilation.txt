@@ -1,0 +1,14 @@
+Pour compiler et exécuter le programme Java, vous pouvez utiliser les commandes suivantes dans le terminal dans \PocketMonster_Andreas_Benjamin:
+
+Compiler tous les fichiers Java :
+
+
+javac -d bin src/etudiant/esiea/PocketMonster/*.java
+
+
+
+
+Exécuter le programme principal :
+
+
+java -cp bin etudiant.esiea.PocketMonster.Main

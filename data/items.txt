@@ -1,0 +1,71 @@
+Item
+Name HealthPotion
+EffectType heal
+EffectAmount 50
+EndItem
+
+Item
+Name AttackBoost
+EffectType buff
+EffectAmount 10
+EndItem
+
+Item
+Name StatusHeal
+EffectType status
+EffectAmount 0
+EndItem
+
+Item
+Name SuperPotion
+EffectType heal
+EffectAmount 100
+EndItem
+
+Item
+Name DefenseBoost
+EffectType buff
+EffectAmount 20
+EndItem
+
+Item
+Name FullRestore
+EffectType heal
+EffectAmount 200
+EndItem
+
+Item
+Name Antidote
+EffectType status
+EffectAmount 0
+EndItem
+
+Item
+Name BurnHeal
+EffectType status
+EffectAmount 0
+EndItem
+
+Item
+Name ParalyzeHeal
+EffectType status
+EffectAmount 0
+EndItem
+
+Item
+Name Ether
+EffectType heal
+EffectAmount 50
+EndItem
+
+Item
+Name XAttack
+EffectType buff
+EffectAmount 15
+EndItem
+
+Item
+Name XDefense
+EffectType buff
+EffectAmount 15
+EndItem
